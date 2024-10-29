@@ -1,0 +1,71 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Images and data
+#*.dat
+
+#Latex
+*.aux
+*.log
+*.gz
+*.dvi
+*.cls
+*.bbl
+*.blg
+*.toc
+*.fdb_latexmk
+*.fls 
+
+# Ifort and VTune
+*.i90
+*.bad
+*.dataLim
+*.vtune 
+*.cfg
+*.options
+*.sc 
+
+
+# Python
+*.pyc
+*.mp4
+*.json
+.*html
+.*txt
+
+# Folders
+.conda/
+media/texts/
+media/Tex/
+
+# End of https://mrkandreev.name/snippets/gitignore-generator/#Fortran
