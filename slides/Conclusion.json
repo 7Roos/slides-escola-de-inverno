@@ -1,0 +1,59 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Conclusion/08609373c1f5784e80853a275800ceb865073da5b19bed023997cb0b55ca6746.mp4",
+      "rev_file": "slides/files/Conclusion/08609373c1f5784e80853a275800ceb865073da5b19bed023997cb0b55ca6746_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Conclusion/38df462a36e4dd48b714057c905047479c718a02927e9227ebcdf067bd90fc6f.mp4",
+      "rev_file": "slides/files/Conclusion/38df462a36e4dd48b714057c905047479c718a02927e9227ebcdf067bd90fc6f_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Conclusion/09755a66bf28e8afba42a73d10a28d616d674a0ba9b4de6c5a6b563be6bd6f3e.mp4",
+      "rev_file": "slides/files/Conclusion/09755a66bf28e8afba42a73d10a28d616d674a0ba9b4de6c5a6b563be6bd6f3e_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Conclusion/75f188264e018e78b90af9660ae94c377868d52fcbf06de19e3d040e2b3b284b.mp4",
+      "rev_file": "slides/files/Conclusion/75f188264e018e78b90af9660ae94c377868d52fcbf06de19e3d040e2b3b284b_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Conclusion/962133f080dac9fa5a838063ce3e60f54d96ec74803ddd671eada8a0a2bcacad.mp4",
+      "rev_file": "slides/files/Conclusion/962133f080dac9fa5a838063ce3e60f54d96ec74803ddd671eada8a0a2bcacad_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1280,
+    720
+  ],
+  "background_color": "black"
+}
