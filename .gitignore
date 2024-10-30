@@ -58,7 +58,7 @@
 
 # Python
 *.pyc
-*.mp4
+.mp4
 *.json
 .*html
 .*txt
